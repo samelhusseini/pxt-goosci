@@ -18,9 +18,5 @@
     "testFiles": [
         "tests.ts"
     ],
-    "public": true,
-    "targetVersions": {
-        "target": "1.1.16",
-        "pxt": "3.16.8"
-    }
+    "public": true
 }
